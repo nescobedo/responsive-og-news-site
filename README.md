@@ -1,4 +1,4 @@
-# Responsive Oil & Gas News Redesign templates
+# Responsive Oil & Gas News Website templates
 
 This is a site theme that I designed for Drilling Data in 2015.  It's a responsive update to their desktop only site. 
 
