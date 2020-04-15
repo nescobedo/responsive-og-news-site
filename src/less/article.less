@@ -1,0 +1,65 @@
+// Article page styles
+
+#Article {
+  font-size:16px;
+  line-height: 24px;
+  color:#000;
+
+  h1.article-title {
+    margin-top:10px;
+    margin-bottom: 10px;
+  }
+  .deck {
+    &.top {
+       font-size: 11px;
+    }
+    &.bottom {
+      border-bottom:solid 1px #333;
+      margin-bottom: 35px;
+      padding-bottom:10px;
+    }
+    a.social {
+      i {
+        font-size:14px;
+        background: @link-color;
+        color:#fff;
+        border-radius:200%;
+        padding:6px 8px;
+        &:hover {
+          background: darken(@link-color, 10%)
+        }
+      }
+    }
+  }
+
+
+
+  .caption {
+    background: #555;
+    color:#ddd;
+  }
+
+
+}
+
+// DECK
+
+
+// PAID CONTENT
+.continue-reading {
+  font-size:23px;
+  color: #fff;
+  text-align: center;
+  padding:30px 10px;
+  background:@se-lt-blue;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  .vertical(@start-color: @se-lt-blue; @end-color:@se-dk-blue; @start-percent: 0%; @end-percent: 100%);
+}
+.continue-reading a {
+  color:#f5be65;
+}
+.continue-subscriber {
+  margin-top: 20px;
+  font-size:19px;
+}

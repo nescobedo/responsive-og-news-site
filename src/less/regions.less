@@ -1,0 +1,84 @@
+#Region-Nav {
+   background-color: #ffeac7;
+
+  ul.nav.nav-tabs.nav-region > li {
+    float: none;
+    font-weight: 700;
+    @media (min-width: @screen-sm) {
+      float:left;
+    }
+
+    > a {
+      padding: 10px 10px;
+    }
+  }
+  ul.nav.nav-tabs.nav-region > li.active a {
+    background-color: #fff;
+  }
+
+
+}
+
+#Well-Permit-Search {
+  border-bottom:solid 1px #333;
+  margin-bottom: 10px;
+  label {
+    font-size: 12px;
+  }
+  &.dark {
+    background-color: #333;
+    color:#fff;
+    label {
+      color: @se-yellow;
+    }
+  }
+}
+
+#Region-Pill-Nav {
+  margin-bottom:30px;
+}
+
+
+//company assets
+
+
+ul.co-personell {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  li {
+    font-size:13px;
+    margin:0;
+    padding:5px 0;
+    border-bottom: dotted 1px #666;
+    h4 {
+      font-size: 17px;
+      margin:0;
+      color: #333;
+    }
+    .title {
+      font-size: 15px;
+    }
+
+  }
+}
+
+
+
+a.region-map-item.zoom {
+  margin-bottom: 15px;
+  .map-title {
+    font-size:18px;
+    margin-top: 5px;
+  }
+  &:hover {
+    .map-title {
+      text-decoration: none;
+    }
+  }
+  &:focus {
+    .map-title {
+      text-decoration: none;
+    }
+  }
+}
