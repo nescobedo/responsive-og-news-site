@@ -2,7 +2,9 @@
 
 This is a site theme that I designed for Drilling Data in 2015.  It's a responsive update to their desktop only site. 
 
-It's made up of over 40 templates.  Mostly HTML/CSS besides some very minor Javascript.  PHP is used only for templating purposes to include re-usable elements (header/footer/etc).  For this client, I would create these types of coded templates to pass off to the back-end development team.  This would enable rapid site development between myself and the product owner.  
+It's made up of over 40 templates.  Mostly HTML/CSS besides some very minor Javascript.  PHP is used only for templating purposes to include re-usable elements (header/footer/etc).  For this client, I would create these types of coded templates to pass off to the back-end development team.  This would enable rapid site development between myself and the product owner. 
+
+The links in the main navbar work - use the Template dropdown to access every template.
 
 This design uses the awesome Museo Sans Rounded font available here: https://www.myfonts.com/fonts/exljbris/museo-sans-rounded/
 
