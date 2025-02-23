@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://gh-images.futurebutterflies.net/2020_fb.png">
+  <img src="http://gh-images.futurebutterflies.com/2020_fb.png">
 </p>
 
 <h1 align="center">Responsive Oil & Gas News Website templates</h1>
@@ -18,7 +18,7 @@ There are over 40 templates in the project.  Comprised of mostly HTML/CSS beside
 
 * This is a working Node.js development environment utilizing Grunt , Browsersync, Bootstrap 3, Babel, Less, and css/js minification.
 
-![divider](http://gh-images.futurebutterflies.net/divider.png)
+![divider](http://gh-images.futurebutterflies.com/divider.png)
 
 ## ❯ How to get started?
 
@@ -27,10 +27,10 @@ There are over 40 templates in the project.  Comprised of mostly HTML/CSS beside
 3. Use 'gulp emulate' to kickoff the dev PHP server - it will automatically open a browser window with the project. Use 'gulp' if you will use your php environment and just want to watch for changes.  
 4. Edit html files in /public, and and js or less files in /src and Browser-sync will reload after any changes.
 
-![divider](http://gh-images.futurebutterflies.net/divider.png)
+![divider](http://gh-images.futurebutterflies.com/divider.png)
 
 <p align="center">
   <img src="./screenshots/home.png">
 </p>
 
-![divider](http://gh-images.futurebutterflies.net/divider.png)
+![divider](http://gh-images.futurebutterflies.com/divider.png)
